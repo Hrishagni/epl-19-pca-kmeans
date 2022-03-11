@@ -1,0 +1,2 @@
+# epl-19-pca-kmeans
+This notebook utilizes the 2019-2020 English Premier League data to visualize, analyze and then perform K-Means Clustering along with Principal Component Analysis to understand how the footballing season went in that year. Starting from barplots to sunburst plots to spyder-charts( for team comparisons ), everything has been used so as to get the bigger picture for a football season.
